@@ -56,12 +56,16 @@ I'm a software developer who believes clean code is the best documentation. I lo
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrabhdeepJassal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PrabhdeepJassal&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrabhdeepJassal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PrabhdeepJassal&theme=tokyonight&hide_border=true&card_width=400" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhdeepJassal&layout=compact&langs_count=12&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhdeepJassal&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&card_width=400" />
+</p>
+
+<p align="center">
+  <sub>⚡ Note: Stats may take a moment to load — they're powered by a free API with cold starts.</sub>
 </p>
 
 ---
@@ -74,10 +78,10 @@ I'm a software developer who believes clean code is the best documentation. I lo
 
 ---
 
-### 🐍 Contribution Snake
+### 😂 Random Dev Joke
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrabhdeepJassal/PrabhdeepJassal/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes" />
 </p>
 
 ---
