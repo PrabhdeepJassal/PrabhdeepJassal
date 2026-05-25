@@ -15,7 +15,7 @@
 ### 🧠 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1500&color=7EC8E3&center=false&vCenter=true&width=650&height=70&lines=%F0%9F%93%8C+name:+Prabhdeep+Singh;%F0%9F%93%8D+location:+India;%F0%9F%92%BC+role:+Software+Engineer;%F0%9F%94%A7+languages:+Python,+Java,+Dart,+JS,+TS;%F0%9F%92%A1+interests:+AI/ML,+Open+Source,+System+Design;%E2%9C%A8+philosophy:+Write+code+for+humans" alt="Typing Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=2000&color=00D26A&center=false&vCenter=true&width=650&height=70&lines=name+=+%22Prabhdeep+Singh%22;location+=+%22India%22;role+=+%22Software+Engineer%22;languages+=+%5B%22Python%22,+%22Java%22,+%22Dart%22%5D;interests+=+%5B%22AI/ML%22,+%22Open+Source%22%5D;print(%22Write+code+for+humans%22)" alt="Typing Code" />
 </p>
 
 I'm a software developer who believes clean code is the best documentation. I love tackling complex problems, contributing to open source, and building things that make a difference. Let's collaborate and create something legendary!
