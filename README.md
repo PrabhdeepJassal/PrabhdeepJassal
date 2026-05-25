@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhdeep+Singh;Passionate+Software+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Clean+Code+Advocate+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=800&color=38BDF8,FF6B6B,38BDF8,FF6B6B&center=true&vCenter=true&width=700&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhdeep+Jassal;Software+Engineer+%26+AI+Enthusiast;Open+Source+Contributor+%E2%9C%A8;Clean+Code+Advocate+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,24 +14,9 @@
 
 ### 🧠 About Me
 
-```yaml
-name: Prabhdeep Singh
-location: India
-role: Software Developer
-languages:
-  - Python
-  - Java
-  - Dart
-  - JavaScript
-  - TypeScript
-  - C / C++
-interests:
-  - Full-Stack Development
-  - Open Source Contribution
-  - System Design
-  - AI / ML
-philosophy: "Write code for humans, not just machines."
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1500&color=7EC8E3&center=false&vCenter=true&width=650&height=70&lines=%F0%9F%93%8C+name:+Prabhdeep+Singh;%F0%9F%93%8D+location:+India;%F0%9F%92%BC+role:+Software+Engineer;%F0%9F%94%A7+languages:+Python,+Java,+Dart,+JS,+TS;%F0%9F%92%A1+interests:+AI/ML,+Open+Source,+System+Design;%E2%9C%A8+philosophy:+Write+code+for+humans" alt="Typing Code" />
+</p>
 
 I'm a software developer who believes clean code is the best documentation. I love tackling complex problems, contributing to open source, and building things that make a difference. Let's collaborate and create something legendary!
 
