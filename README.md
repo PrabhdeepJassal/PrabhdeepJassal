@@ -53,19 +53,21 @@ I'm a software developer who believes clean code is the best documentation. I lo
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrabhdeepJassal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PrabhdeepJassal&theme=tokyonight&hide_border=true&card_width=400" />
+  <img src="https://img.shields.io/github/followers/PrabhdeepJassal?style=for-the-badge&logo=github&label=Followers&color=58A6FF&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/PrabhdeepJassal?style=for-the-badge&logo=github&label=Total%20Stars&color=58A6FF&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repos&color=58A6FF&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPrabhdeepJassal" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhdeepJassal&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&card_width=400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabhdeepJassal&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <sub>⚡ Note: Stats may take a moment to load — they're powered by a free API with cold starts.</sub>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrabhdeepJassal&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrabhdeepJassal&theme=tokyonight" />
 </p>
 
 ---
