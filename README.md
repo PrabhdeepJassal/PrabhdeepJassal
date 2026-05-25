@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prabhdeep+Singh;Passionate+Software+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Clean+Code+Advocate+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
@@ -57,12 +56,12 @@ I'm a software developer who believes clean code is the best documentation. I lo
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrabhdeepJassal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PrabhdeepJassal&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrabhdeepJassal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PrabhdeepJassal&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhdeepJassal&layout=compact&langs_count=12&theme=tokyonight&hide_border=true" width="48%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhdeepJassal&layout=compact&langs_count=12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
