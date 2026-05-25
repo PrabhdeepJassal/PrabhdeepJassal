@@ -45,10 +45,10 @@ I'm a software developer who believes clean code is the best documentation. I lo
 
 ---
 
-### 🏆 GitHub Trophies
+### 😂 Random Dev Joke
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrabhdeepJassal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes" />
 </p>
 
 ---
@@ -76,14 +76,6 @@ I'm a software developer who believes clean code is the best documentation. I lo
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabhdeepJassal&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
-</p>
-
----
-
-### 😂 Random Dev Joke
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes" />
 </p>
 
 ---
